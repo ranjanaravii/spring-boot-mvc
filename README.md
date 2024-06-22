@@ -67,15 +67,9 @@ Add additional notes about how to deploy this on a live system.
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [Spring Boot](https://spring.io/projects/spring-boot) - The framework used
 
-## Authors
-
-* *Ravi Ranjan* - Initial work - [ravi-ranjan-bb](https://github.com/ravi-ranjan-bb)
 
 ## License
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 ```
