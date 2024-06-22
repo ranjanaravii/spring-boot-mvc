@@ -25,10 +25,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-1. Clone the repository
-bash
-git clone https://github.com/ravi-ranjan-bb/project-name.git
-
 2. Navigate to the project directory
 bash
 cd project-name
@@ -53,13 +49,8 @@ cd ../product-service
 mvn spring-boot:run
 
 
-## Running the tests
-
-Explain how to run the automated tests for this system.
-
 ## Deployment
 
-Add additional notes about how to deploy this on a live system.
 
 ## Built With
 
